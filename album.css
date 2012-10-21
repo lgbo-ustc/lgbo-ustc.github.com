@@ -1,0 +1,39 @@
+
+
+
+.pic_thumbnail{
+	padding:5px 5px 15px 5px;
+	border:2px solid #bfbfbf;
+	background-color:white;
+	width:80px;
+	display : inline-block;
+}
+.pic_enlarge{
+	padding:5px 5px 15px 5px;
+	border:6px solid #bfbfbf;
+	background-color:white;
+	width:400px;
+}
+
+.pic_enlarge img{
+	width : 400px;
+	height : 460px;
+}
+
+.pic_thumbnail img{
+	width : 80px;
+	height : 90px;
+}
+
+
+#album_left{
+	width : 480px;
+	height : 100%;
+	display : inline-block;
+}
+
+#album_right{
+	width : 420px;
+	height : 100%;
+	display : inline-block;
+}

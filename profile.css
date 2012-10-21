@@ -1,0 +1,21 @@
+#profile_null_left_blk{
+	width : 420px;
+	height : 100%;
+	display : inline-block;	 	 
+}
+
+#profile_right_blk{
+	width : 480px;
+	height : 100%;
+	display : inline-block;
+}
+
+.underline_solid{
+	border-bottom : solid;
+	border-bottom-width : 2px;
+	color : #ffffff;
+}
+
+p{
+	color : #ffffff;
+}
