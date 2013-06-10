@@ -18,4 +18,41 @@
 }
 
 
+#div1 {position:relative; width:450px; height:450px; margin: 20px auto 0; }
+#div1 a {position:absolute; top:0px; left:0px; font-family: Microsoft YaHei; color:#fff; font-weight:bold; text-decoration:none; padding: 3px 6px; }
+#div1 a:hover {border: 1px solid #eee; background: #000; }
+
+#label_3d{
+	position:relative;
+	top:-20px;
+	left:40px;
+	width:450px; 
+	height:450px;
+}
+
+#label_3d .color1{
+	color:#666633;
+}
+#label_3d .color2{
+	color:#336699;
+}
+
+#label_3d a{
+	position:absolute;
+	top:0px; 
+	left:0px;
+	color:#000000;
+	padding : 3px 6px;
+	font-weight:bold;
+	font-size:3em;
+	text-decoration:none
+	
+}
+
+#label_3d a:hover{
+	border: 1px solid #eee;
+	color:#fff;
+}
+
+
 

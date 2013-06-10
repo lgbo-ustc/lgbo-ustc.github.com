@@ -57,6 +57,15 @@ p{
 	height : 45%;
 }
 
+#header_back{
+	position:relative;
+	left:0px;
+	top:40px;
+	width:90px;
+	height:28px;
+	background:#74b896;
+}
+
 .navbar_btn{
 	position : relative;
 	display : inline-block;
