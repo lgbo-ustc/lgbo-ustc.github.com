@@ -59,11 +59,10 @@ p{
 
 #header_back{
 	position:relative;
-	left:0px;
+	left:10px;
 	top:40px;
 	width:90px;
 	height:28px;
-	background:#74b896;
 }
 
 .navbar_btn{
